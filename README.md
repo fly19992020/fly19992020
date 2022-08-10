@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @fly19992020
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email fly19992020#outlook.com
+email:fly19992020#outlook.com
+I'm Chinese. I love China!
+
+我是中国人。我爱中国！
 
 <!---
 fly19992020/fly19992020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
